@@ -1,0 +1,8 @@
+Live sets, instruments and samples for shows
+
+Directory structure:
+
+	Live/Set_Folder/Joe.als
+	Live/Set_Folder/Theron.als
+	Live/Set_Folder/Common/Samples
+	Live/Set_Folder/Common/Intruments
